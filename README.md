@@ -1,1 +1,4 @@
 # Image-Steganography-
+
+# Project Title - IMAGE BALANCED SCALABLE IMAGE STEGANOGRAPHY USING LSB
+
